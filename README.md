@@ -1,6 +1,6 @@
 # Primer Repo
 
-Este archivo lo deben dejar decente.
+Este archivo lo deben dejar decente. Aquí podrían poner una descripción sencilla del proyecto.
 
 ## ¿Por qué?
 
